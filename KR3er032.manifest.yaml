@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3er032/v1
 canonical_location: https://kanripo.org/bkk/KR3er032/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 松崖醫徑
   identifiers:
@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3er032_000.yaml, hash: 'sha256:917233ea2ba20792a15059e5647b2008ad8d35c2bc265d65ea5ba3dc55c9b2ad'}
-  - {seq: 1, filename: KR3er032_001.yaml, hash: 'sha256:b7b86b9277eb994ce98c089c0ae1b5d614c581a070f380d82648025ca7f76ae2'}
-  - {seq: 3, filename: KR3er032_003.yaml, hash: 'sha256:f38565a37836e224dba1aaa44287882f02e533de293d17fdfd59e8cae515aa96'}
+  - {seq: 0, filename: KR3er032_000.yaml, hash: 'sha256:68350984069f3a5b5fa21d99e3828dde3b52ef7d696339da361a58ac27290eaa'}
+  - {seq: 1, filename: KR3er032_001.yaml, hash: 'sha256:8aa19e6cf1b7a5bfecf2a8ecdd756ebd781bf17f1037b572325bc868ccc85c97'}
+  - {seq: 3, filename: KR3er032_003.yaml, hash: 'sha256:fcd5d052102555c1bc395190cb793ac97e9f189368b3d81433bfc9f7ab72a745'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er032_000.markers.yaml, hash: 'sha256:68931427bfa9d1d7be1b44cd7ffff8a95adf2246e628b753be4c0e4f143bdbf4'}
-  - {seq: 1, role: markers, filename: assets/KR3er032_001.markers.yaml, hash: 'sha256:5d7e8f3696c7ac5091f1d815ddfe041ac1a7102b8d04583f0f1b478058453a6f'}
-  - {seq: 3, role: markers, filename: assets/KR3er032_003.markers.yaml, hash: 'sha256:9af2b75169443a417934526ebf722bb612f9f97c4681810ad5f2eb7f72a9dc91'}
+  - {seq: 0, role: markers, filename: assets/KR3er032_000.markers.yaml, hash: 'sha256:d000ff9448e73c88ab1808fc4fed4d6920e062577bbffe33a92fec24cf16b73a'}
+  - {seq: 1, role: markers, filename: assets/KR3er032_001.markers.yaml, hash: 'sha256:2801543d3a9fa7cdbf6b3d79ae6d3e573fec069e227e55c92dbc2351fb69f4ba'}
+  - {seq: 3, role: markers, filename: assets/KR3er032_003.markers.yaml, hash: 'sha256:1bc5beae2ffc8c73b4ba9bd44536891a063baada2c77c91a83468907575e5ba2'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1155,4 +1155,7 @@ table_of_contents:
   label: 重舌木舌方法
   type: section
   level: 3
-hash: sha256:56f21e639144c8d61204e82bab200b560b96c219ec7e28d1094375b0384498d3
+hash: sha256:68f0a2bee1cccc35102d866af5c223d00c2cba3500c9414556df6ec451a116fe
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
