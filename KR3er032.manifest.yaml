@@ -22,8 +22,8 @@ assets:
   - {seq: 3, filename: KR3er032_003.yaml, hash: 'sha256:fcd5d052102555c1bc395190cb793ac97e9f189368b3d81433bfc9f7ab72a745'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3er032_000.markers.yaml, hash: 'sha256:d000ff9448e73c88ab1808fc4fed4d6920e062577bbffe33a92fec24cf16b73a'}
-  - {seq: 1, role: markers, filename: assets/KR3er032_001.markers.yaml, hash: 'sha256:2801543d3a9fa7cdbf6b3d79ae6d3e573fec069e227e55c92dbc2351fb69f4ba'}
-  - {seq: 3, role: markers, filename: assets/KR3er032_003.markers.yaml, hash: 'sha256:1bc5beae2ffc8c73b4ba9bd44536891a063baada2c77c91a83468907575e5ba2'}
+  - {seq: 1, role: markers, filename: assets/KR3er032_001.markers.yaml, hash: 'sha256:c033319016a64ba0a392c648f5df947411c7a69fadceebacfe62fc2cb752d332'}
+  - {seq: 3, role: markers, filename: assets/KR3er032_003.markers.yaml, hash: 'sha256:24a8aee7cf46e76a3eea99ac2cfeed866b77f194a889ce79b39a153fde619462'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1155,7 +1155,7 @@ table_of_contents:
   label: 重舌木舌方法
   type: section
   level: 3
-hash: sha256:68f0a2bee1cccc35102d866af5c223d00c2cba3500c9414556df6ec451a116fe
+hash: sha256:0a64219480a7ce1988d8a7c40632ee663ca0492c90ea1b48b8c2ec50e321e99a
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
